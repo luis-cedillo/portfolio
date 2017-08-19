@@ -5,7 +5,7 @@ body {
 
 /* Home Screen starts */
 .homePage {
-	background:url("/Users/rebeccafalcon/Documents/Luis /Web Dev/Personal Projects/Portfolio/images/background.jpg");
+	background:url("/images/background.jpg");
 	/* Image courtesy of Joshua Earle */
 	background-position: center;
 	background-repeat: no-repeat;
