@@ -1,0 +1,278 @@
+/* Nav bar starts */
+nav {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 70px;
+}
+
+.navbar {
+	background-color: black;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 500;
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+	background-color: black;
+}
+
+.navbar-default .navbar-nav>li>a {
+	text-align: center;
+	color: white;
+	background-color: black;
+	font-size: 20px;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+	color: black;
+	background-color: #fafafa;
+}
+
+.logo {
+	height: 30px;
+	margin-bottom: 5px;
+}
+
+.btn {
+	background-color: black;
+}
+
+/* Nav bar end */
+
+/* About Page start */
+
+.aboutPage {
+	background-color: #fafafa;
+	background-size: 1000px;
+	background-position: center;
+	padding: 1%;
+}
+
+.aboutBlock{
+	margin-top: 8%;
+}
+
+.aboutMeCon {
+	margin-top: 4%;
+}
+
+.aboutPic{
+	height: 390px;
+	width: 390px;
+	margin: auto;
+	border: none;
+}
+
+.aboutTitle {
+	text-align: left;
+	font-size: 60px;
+	font-weight: bolder;
+	color: black;
+	margin: auto;
+	letter-spacing: -.07em;
+	line-height: 1.2em;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 0.5em;
+}
+
+.aboutJob{
+	font-size: 25px;
+	font-size: 2.4rem;
+	color: #666666;
+	line-height: 1.3em;
+	margin-bottom: 0.7em;
+	clear: both;
+	margin-bottom: 1.4em;
+	letter-spacing: .05em;
+	font-weight: 200;
+}
+
+.aboutContent {
+	color: black;
+	margin-bottom: 1.4em;
+	line-height: 1.4em;
+	letter-spacing: .1em;
+	font-weight: 200;
+	font-size: 16px;
+}
+
+.aPic {
+	margin-right: 5%;
+	margin-bottom: 5%;
+	height: 75px;
+	width: 150px;
+}
+
+/* Dev/Design start */
+
+.piechart{
+	margin: auto;
+	margin-top: 5%;
+	height: 400px;
+	width: 400px;
+	border: none;
+}
+
+.devCon {
+	padding-top: 1em;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	margin-bottom: 0.5em;
+	line-height: 1.2em;
+	color: #111111;
+	font-weight: lighter;
+}
+
+.devList {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+}
+
+ul li {
+	margin-bottom: 0.7em;
+}
+
+/* Dev/Design ends */
+
+/* Experience starts */
+
+.experTitle {
+	text-align: left;
+	font-size: 60px;
+	font-weight: bolder;
+	color: #1d242b;
+	margin: auto;
+	letter-spacing: -.07em;
+	line-height: 1.2em;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 0.5em;
+}
+
+.expSubTit{
+	text-align: center;
+	color: #1d242b;
+}
+
+.expPara {
+	text-align: center;
+	color: #1d242b;
+}
+
+.expPic {
+	margin: auto;
+	padding: 1%;
+	height: 200px;
+	width: 200px;
+	border: none;
+}
+/* Experience ends */
+
+/* Education starts */
+.educateTitle {
+	text-align: left;
+	font-size: 60px;
+	font-weight: bolder;
+	color: #1d242b;
+	margin: auto;
+	letter-spacing: -.07em;
+	line-height: 1.2em;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 0.5em;
+}
+
+.eduSubTit {
+	text-align: center;
+	color: black;
+}
+
+.eduPara {
+	color: black;
+	text-align: center;
+}
+.eduPic {
+	margin: auto;
+	padding: 1%;
+	height: 200px;
+	width: 200px;
+	border: none;
+}
+/* Education ends */
+
+/* Random Facts starts */
+
+.randomTitle{
+	padding-top: 2.0em;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	margin-bottom: 0.7em;
+	line-height: 1.2em;
+	color: #111111;
+	font-weight: lighter;
+}
+
+.randomCon{
+	padding-top: 1em;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	margin-bottom: 0.5em;
+	line-height: 1.2em;
+	color: #111111;
+	font-weight: lighter;
+	font-size: 16px;
+}
+
+.poster {
+	margin: auto;
+	height: 600px;
+	width: 400px;
+	border: none;
+}
+
+/* Random Facts ends */
+
+/* Footer starts */
+
+.fa-copyright{
+	font-size: 16px;
+	background-color: #f5f5f5;
+	color: #666666;
+}
+
+/* Social Media Nav Starts */
+
+.btn {
+	background-color: rgba(0, 0, 0, 0);
+}
+
+.fa-facebook-square {
+	color: #3b5998;
+	font-size: 20px;
+}
+
+.fa-linkedin-square {
+	color: #0077b5;
+	font-size: 20px;
+}
+
+.fa-twitter {
+	color: #00aced;
+	font-size: 20px;
+}
+
+.fa-free-code-camp {
+	color: green;
+	font-size: 20px;
+}
+
+/* Social Media Nav Ends */
+
+/* Footer ends */
+
+/* About ends */
