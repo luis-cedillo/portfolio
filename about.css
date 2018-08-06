@@ -271,6 +271,20 @@ ul li {
 	font-size: 20px;
 }
 
+.Downloadbtn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.Downloadbtn:hover {
+  background-color: RoyalBlue;
+}
+
 /* Social Media Nav Ends */
 
 /* Footer ends */
